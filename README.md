@@ -1,2 +1,2 @@
 # Cronometro-em-python
-Cronometro simples feito com Python e  Tkinter 
+Cronometro  Simples feito com python3 e Tkinter
